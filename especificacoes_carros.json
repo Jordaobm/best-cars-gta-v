@@ -1,0 +1,32 @@
+{
+  "total": 2,
+  "sucesso": 2,
+  "erros": 0,
+  "dataExtracao": "2025-11-21T16:44:02.207Z",
+  "carros": [
+    {
+      "url": "https://gta.fandom.com/wiki/BR8",
+      "nome": "BR8",
+      "categoria": "Open-wheel car",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a8/BR8-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190502",
+      "stats": {
+        "speed": "87.18959",
+        "acceleration": "100",
+        "braking": "43.333332",
+        "traction": "100"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/DR1",
+      "nome": "DR1",
+      "categoria": "Open-wheel car",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6c/DR1-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190519",
+      "stats": {
+        "speed": "87.32373",
+        "acceleration": "100",
+        "braking": "38.333332",
+        "traction": "96.727272"
+      }
+    }
+  ]
+}

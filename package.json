@@ -1,0 +1,17 @@
+{
+  "name": "best-cars",
+  "version": "1.0.0",
+  "description": "Script para obter lista de veículos do GTA Online",
+  "main": "obter_links.js",
+  "scripts": {
+    "obter-links": "node obter_links.js",
+    "extrair-specs": "node extrair_especificacoes.js",
+    "completo": "node obter_links.js && node extrair_especificacoes.js"
+  },
+  "keywords": ["gta", "vehicles", "scraping"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
