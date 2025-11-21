@@ -3,6 +3,7 @@
     "url": "https://gta.fandom.com/wiki/BR8",
     "nome": "BR8",
     "categoria": "Open-wheel car",
+    "categoriaOriginal": "Open-wheel car",
     "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a8/BR8-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190502",
     "stats": {
       "speed": "87.18959",
@@ -12,15 +13,42 @@
     }
   },
   {
-    "url": "https://gta.fandom.com/wiki/DR1",
-    "nome": "DR1",
-    "categoria": "Open-wheel car",
-    "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6c/DR1-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190519",
+    "url": "https://gta.fandom.com/wiki/Adder",
+    "nome": "Adder",
+    "categoria": "NAO_ENCONTRADO",
+    "categoriaOriginal": "2-door coupé",
+    "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9e/Adder-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20230402200727",
     "stats": {
-      "speed": "87.32373",
-      "acceleration": "100",
-      "braking": "38.333332",
-      "traction": "96.727272"
+      "speed": "85.848213",
+      "acceleration": "79.999992",
+      "braking": "33.333336",
+      "traction": "75.757576"
+    }
+  },
+  {
+    "url": "https://gta.fandom.com/wiki/300R",
+    "nome": "300R",
+    "categoria": "NAO_ENCONTRADO",
+    "categoriaOriginal": "2-door fastback coupe",
+    "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5d/300R-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251011113045",
+    "stats": {
+      "speed": "81.368004",
+      "acceleration": "82.199997",
+      "braking": "26",
+      "traction": "75.606064"
+    }
+  },
+  {
+    "url": "https://gta.fandom.com/wiki/8F_Drafter",
+    "nome": "8F Drafter",
+    "categoria": "Sports",
+    "categoriaOriginal": "Sports",
+    "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/39/8FDrafter-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251011170658",
+    "stats": {
+      "speed": "80.482697",
+      "acceleration": "85.5",
+      "braking": "33.333336",
+      "traction": "81.666664"
     }
   }
 ]

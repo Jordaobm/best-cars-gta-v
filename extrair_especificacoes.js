@@ -199,17 +199,6 @@ async function extrairTodosCarros() {
     );
     console.log(`✓ Arquivo salvo: carros_validos.json (${carrosValidos.length} carros)`);
 
-    // Cria um arquivo com os carros que precisam de revisão manual da categoria
-    const carrosRevisao = carros.filter(c => c.nome && c.categoria === 'NAO_ENCONTRADO');
-    if (carrosRevisao.length > 0) {
-      fs.writeFileSync(
-        'carros_revisar_categoria.json',
-        JSON.stringify(carrosRevisao, null, 2),
-        'utf-8'
-      );
-      console.log(`✓ Arquivo salvo: carros_revisar_categoria.json (${carrosRevisao.length} carros para revisar)`);
-    }
-
   } catch (error) {
     console.error('\n✗ Erro durante a extração:', error);
     throw error;
