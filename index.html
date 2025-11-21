@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Best Cars</title>
+  </head>
+  <body>
+    <h1>Página de carros GTA Online</h1>
+
+    <div id="filtros">
+      <p>Ordenar por:</p>
+      <select id="tipoOrdenacao" onchange="filtrar()">
+        <option value="ALFABETICA">Alfabética</option>
+        <option value="VELOCIDADE">Velocidade</option>
+        <option value="ACELERACAO">Aceleração</option>
+        <option value="FRENAGEM">Frenagem</option>
+        <option value="TRACAO">Tração</option>
+        <option value="MELHOR_CARRO_CURVAS">Melhor carro em curvas</option>
+        <option value="MELHOR_CARRO_RETAS">Melhor carro em retas</option>
+        <option value="MELHOR_CARRO_DIRIGIBILIDADE">
+          Melhor carro em dirigibilidade
+        </option>
+        <option value="MELHOR_CARRO_EQUILIBRADO">Carro Equilibrado</option>
+      </select>
+
+      <p>Categoria:</p>
+      <select id="categoriaSelecionada" onchange="filtrar()">
+        <option value="TODAS">TODAS</option>
+        <option value="Open-wheel car">Open-wheel car</option>
+        <option value="Super">Super</option>
+        <option value="Sports">Sports</option>
+        <option value="Sports Classics">Sports Classics</option>
+        <option value="Sedans">Sedans</option>
+        <option value="Muscle">Muscle</option>
+        <option value="Coupes">Coupes</option>
+        <option value="Coupe">Coupe</option>
+        <option value="Compacts">Compacts</option>
+        <option value="SUVs">SUVs</option>
+        <option value="Motorcycles">Motorcycles</option>
+        <option value="Emergency">Emergency</option>
+        <option value="Off-Road">Off-Road</option>
+        <option value="Commercial">Commercial</option>
+        <option value="Industrial">Industrial</option>
+        <option value="Service">Service</option>
+        <option value="Vans">Vans</option>
+        <option value="Utility">Utility</option>
+        <option value="Cycles">Cycles</option>
+        <option value="Military">Military</option>
+        <option value="Trains">Trains</option>
+        <option value="Boats">Boats</option>
+        <option value="Helicopters">Helicopters</option>
+        <option value="Planes">Planes</option>
+      </select>
+    </div>
+
+    <div id="formula"></div>
+
+    <div id="cars"></div>
+
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
