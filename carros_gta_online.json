@@ -128,8 +128,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cheetah",
+      "categoria": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5a/Cheetah-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251002133259",
       "url": "https://gta.fandom.com/wiki/Cheetah_(HD_Universe)",
       "stats": {
@@ -285,7 +285,7 @@
     },
     {
       "nome": "Infernus",
-      "categoria": null,
+      "categoria": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/85/Infernus-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930195355",
       "url": "https://gta.fandom.com/wiki/Infernus",
       "stats": {
@@ -296,8 +296,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Itali GTB",
+      "categoria": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/32/ItaliGTB-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251001233811",
       "url": "https://gta.fandom.com/wiki/Itali_GTB_(HD_Universe)",
       "stats": {
@@ -585,7 +585,7 @@
     },
     {
       "nome": "Turismo Omaggio",
-      "categoria": null,
+      "categoria": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/TurismoOmaggio-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201135",
       "url": "https://gta.fandom.com/wiki/Turismo_Omaggio",
       "stats": {
@@ -656,7 +656,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Vigilante",
       "categoria": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/85/Vigilante-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251002014325",
       "url": "https://gta.fandom.com/wiki/Vigilante_(car)",
@@ -848,8 +848,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Alpha",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/54/Alpha-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251011120714",
       "url": "https://gta.fandom.com/wiki/Alpha_(HD_Universe)",
       "stats": {
@@ -860,7 +860,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Banshee",
       "categoria": null,
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/64/Banshee-GTAVI-Trailer2.png/revision/latest/scale-to-width-down/268?cb=20250506212454",
       "url": "https://gta.fandom.com/wiki/Banshee_(HD_Universe)",
@@ -896,8 +896,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Blista Compact",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/BlistaCompact-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193117",
       "url": "https://gta.fandom.com/wiki/Blista_Compact_(HD_Universe)",
       "stats": {
@@ -920,8 +920,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Buffalo",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/Buffalo-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024132110",
       "url": "https://gta.fandom.com/wiki/Buffalo_(HD_Universe)",
       "stats": {
@@ -1101,7 +1101,7 @@
     },
     {
       "nome": "Cypher",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f5/Cypher-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024133036",
       "url": "https://gta.fandom.com/wiki/Cypher",
       "stats": {
@@ -1112,8 +1112,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cypher",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f0/Cypher2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024133030",
       "url": "https://gta.fandom.com/wiki/Cypher_(Drift_Tune)",
       "stats": {
@@ -1136,8 +1136,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Drift Tampa",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6a/DriftTampa2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024135014",
       "url": "https://gta.fandom.com/wiki/Drift_Tampa_(Drift_Tune)",
       "stats": {
@@ -1173,7 +1173,7 @@
     },
     {
       "nome": "Euros",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/05/Euros-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251012113507",
       "url": "https://gta.fandom.com/wiki/Euros",
       "stats": {
@@ -1184,8 +1184,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Euros",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/db/Euros2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251012113501",
       "url": "https://gta.fandom.com/wiki/Euros_(Drift_Tune)",
       "stats": {
@@ -1257,7 +1257,7 @@
     },
     {
       "nome": "Futo",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4b/Futo-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025204303",
       "url": "https://gta.fandom.com/wiki/Futo",
       "stats": {
@@ -1268,8 +1268,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Futo",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/22/Futo2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025204250",
       "url": "https://gta.fandom.com/wiki/Futo_(Drift_Tune)",
       "stats": {
@@ -1281,7 +1281,7 @@
     },
     {
       "nome": "Futo GTX",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/84/FutoGTX-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025210749",
       "url": "https://gta.fandom.com/wiki/Futo_GTX",
       "stats": {
@@ -1292,8 +1292,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Futo GTX",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/12/FutoGTX2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025210731",
       "url": "https://gta.fandom.com/wiki/Futo_GTX_(Drift_Tune)",
       "stats": {
@@ -1388,8 +1388,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Itali GTO",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/ItaliGTO-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025215537",
       "url": "https://gta.fandom.com/wiki/Itali_GTO_(HD_Universe)",
       "stats": {
@@ -1401,7 +1401,7 @@
     },
     {
       "nome": "Itali RSX",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/ItaliRSX-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025215701",
       "url": "https://gta.fandom.com/wiki/Itali_RSX",
       "stats": {
@@ -1460,8 +1460,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Jester RR",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/JesterRR-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193139",
       "url": "https://gta.fandom.com/wiki/Jester_RR_(Drift_Tune)",
       "stats": {
@@ -1472,7 +1472,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "LSCM Jester RR",
       "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/LSCMJesterRR-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250619002605",
       "url": "https://gta.fandom.com/wiki/LSCM_Jester_RR",
@@ -1484,8 +1484,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Jugular",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/98/Jugular-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190723230439",
       "url": "https://gta.fandom.com/wiki/Jugular_(HD_Universe)",
       "stats": {
@@ -1508,8 +1508,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Kuruma",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4b/Kuruma-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193150",
       "url": "https://gta.fandom.com/wiki/Kuruma_(HD_Universe)",
       "stats": {
@@ -1761,7 +1761,7 @@
     },
     {
       "nome": "Rapid GT",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/42/RapidGT-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20150529203102",
       "url": "https://gta.fandom.com/wiki/Rapid_GT",
       "stats": {
@@ -1772,8 +1772,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Rapid GT",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f8/RapidGT2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20150529203104",
       "url": "https://gta.fandom.com/wiki/Rapid_GT_(cabrio)",
       "stats": {
@@ -1820,8 +1820,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Remus",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/88/Remus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164509",
       "url": "https://gta.fandom.com/wiki/Remus_(Drift_Tune)",
       "stats": {
@@ -1952,8 +1952,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sentinel Classic Widebody",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2b/SentinelClassicWidebody-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20220809140359",
       "url": "https://gta.fandom.com/wiki/Sentinel_Classic_Widebody_(Drift_Tune)",
       "stats": {
@@ -2060,8 +2060,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sultan",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Sultan-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230623151719",
       "url": "https://gta.fandom.com/wiki/Sultan_(HD_Universe)",
       "stats": {
@@ -2180,8 +2180,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "ZR350",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3b/ZR350-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164536",
       "url": "https://gta.fandom.com/wiki/ZR350",
       "stats": {
@@ -2192,8 +2192,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "ZR350",
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3b/ZR350-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164536",
       "url": "https://gta.fandom.com/wiki/ZR350_(Drift_Tune)",
       "stats": {
@@ -2277,7 +2277,7 @@
     },
     {
       "nome": "Cheburek",
-      "categoria": null,
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8e/Cheburek-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20241114210923",
       "url": "https://gta.fandom.com/wiki/Cheburek",
       "stats": {
@@ -2288,8 +2288,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cheburek",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8e/Cheburek-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20241114210923",
       "url": "https://gta.fandom.com/wiki/Cheburek_(Drift_Tune)",
       "stats": {
