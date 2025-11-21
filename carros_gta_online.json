@@ -1,0 +1,287 @@
+{
+  "total": 23,
+  "estatisticas": {
+    "sucesso": 19,
+    "erros": 0,
+    "semCategoria": 3
+  },
+  "dataExtracao": "2025-11-21T18:09:43.408Z",
+  "carros": [
+    {
+      "nome": "BR8",
+      "categoria": "Open-wheel car",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a8/BR8-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190502",
+      "url": "https://gta.fandom.com/wiki/BR8",
+      "stats": {
+        "speed": "87.18959",
+        "acceleration": "100",
+        "braking": "43.333332",
+        "traction": "100"
+      }
+    },
+    {
+      "nome": "Entity XXR",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/EntityXXR-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20241114211105",
+      "url": "https://gta.fandom.com/wiki/Entity_XXR",
+      "stats": {
+        "speed": "91.21373",
+        "acceleration": "88.75",
+        "braking": "33.333336",
+        "traction": "100"
+      }
+    },
+    {
+      "nome": "ETR1",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5b/ETR1-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251001233214",
+      "url": "https://gta.fandom.com/wiki/ETR1",
+      "stats": {
+        "speed": "85.04",
+        "acceleration": "82.5",
+        "braking": "33.3",
+        "traction": "88.73"
+      }
+    },
+    {
+      "nome": "Furia",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/Furia-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20191213212658",
+      "url": "https://gta.fandom.com/wiki/Furia",
+      "stats": {
+        "speed": "86.492073",
+        "acceleration": "91.25",
+        "braking": "33.333336",
+        "traction": "81.818184"
+      }
+    },
+    {
+      "nome": "FMJ",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/22/FMJ-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024130557",
+      "url": "https://gta.fandom.com/wiki/FMJ",
+      "stats": {
+        "speed": "84.989723",
+        "acceleration": "91.375",
+        "braking": "36.666668",
+        "traction": "81.818184"
+      }
+    },
+    {
+      "nome": "GP1",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/GP1-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024130619",
+      "url": "https://gta.fandom.com/wiki/GP1",
+      "stats": {
+        "speed": "86.116493",
+        "acceleration": "92.5",
+        "braking": "40",
+        "traction": "84.76516"
+      }
+    },
+    {
+      "nome": "Ignus",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/37/Ignus-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930195741",
+      "url": "https://gta.fandom.com/wiki/Ignus",
+      "stats": {
+        "speed": "85.982353",
+        "acceleration": "95.875",
+        "braking": "33.333336",
+        "traction": "83.863632"
+      }
+    },
+    {
+      "nome": "Torero XO",
+      "categoria": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e2/ToreroXO-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251002013331",
+      "url": "https://gta.fandom.com/wiki/Torero_XO",
+      "stats": {
+        "speed": "83.924248",
+        "acceleration": "96.25",
+        "braking": "38.333332",
+        "traction": "83.924248"
+      }
+    },
+    {
+      "nome": "Turismo Omaggio",
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/TurismoOmaggio-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201135",
+      "url": "https://gta.fandom.com/wiki/Turismo_Omaggio",
+      "stats": {
+        "speed": "82.092354",
+        "acceleration": "93.5",
+        "braking": "39.5",
+        "traction": "100"
+      }
+    },
+    {
+      "nome": "SM722",
+      "categoria": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/SM722-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20220809141343",
+      "url": "https://gta.fandom.com/wiki/SM722",
+      "stats": {
+        "speed": "86.320381",
+        "acceleration": "89.500008",
+        "braking": "28.333334",
+        "traction": "76"
+      }
+    },
+    {
+      "nome": "Specter",
+      "categoria": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7b/Specter-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161213202907",
+      "url": "https://gta.fandom.com/wiki/Specter",
+      "stats": {
+        "speed": "83.165451",
+        "acceleration": "79.999992",
+        "braking": "33.333336",
+        "traction": "79.393936"
+      }
+    },
+    {
+      "nome": "Specter Custom",
+      "categoria": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/01/SpecterCustom-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161213202941",
+      "url": "https://gta.fandom.com/wiki/Specter_Custom",
+      "stats": {
+        "speed": "83.272758",
+        "acceleration": "82.500008",
+        "braking": "36.666668",
+        "traction": "85.864777"
+      }
+    },
+    {
+      "nome": "Stinger TT",
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d3/StingerTT-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613215729",
+      "url": "https://gta.fandom.com/wiki/Stinger_TT",
+      "stats": {
+        "speed": "86.921326",
+        "acceleration": "99.5",
+        "braking": "32.666668",
+        "traction": "79.287872"
+      }
+    },
+    {
+      "nome": "Sugoi",
+      "categoria": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/82/Sugoi-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20191213212802",
+      "url": "https://gta.fandom.com/wiki/Sugoi",
+      "stats": {
+        "speed": "83.702011",
+        "acceleration": "77.5",
+        "braking": "28.333334",
+        "traction": "100"
+      }
+    },
+    {
+      "nome": null,
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Sultan-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230623151719",
+      "url": "https://gta.fandom.com/wiki/Sultan_(HD_Universe)",
+      "stats": {
+        "speed": null,
+        "acceleration": null,
+        "braking": null,
+        "traction": null
+      }
+    },
+    {
+      "nome": "Sultan Classic",
+      "categoria": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20191213212805",
+      "url": "https://gta.fandom.com/wiki/Sultan_Classic",
+      "stats": {
+        "speed": null,
+        "acceleration": null,
+        "braking": null,
+        "traction": null
+      }
+    },
+    {
+      "nome": "Premier",
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/Premier-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180637",
+      "url": "https://gta.fandom.com/wiki/Premier",
+      "stats": {
+        "speed": "77.799942",
+        "acceleration": "50",
+        "braking": "20",
+        "traction": "63.636364"
+      }
+    },
+    {
+      "nome": null,
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/10/Primo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406175756",
+      "url": "https://gta.fandom.com/wiki/Primo_(HD_Universe)",
+      "stats": {
+        "speed": "75.11718",
+        "acceleration": "50",
+        "braking": "29.999998",
+        "traction": "71.21212"
+      }
+    },
+    {
+      "nome": "Primo Custom",
+      "categoria": "Sedans",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/PrimoCustom-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20151021162950",
+      "url": "https://gta.fandom.com/wiki/Primo_Custom",
+      "stats": {
+        "speed": "75.11718",
+        "acceleration": "50",
+        "braking": "29.999998",
+        "traction": "71.21212"
+      }
+    },
+    {
+      "nome": "Regina",
+      "categoria": "Sedans",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/71/Regina-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160625231110",
+      "url": "https://gta.fandom.com/wiki/Regina",
+      "stats": {
+        "speed": "64.386162",
+        "acceleration": "35",
+        "braking": "20",
+        "traction": "57.575756"
+      }
+    },
+    {
+      "nome": "Rhinehart",
+      "categoria": "Sedans",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/Rhinehart-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20220809140343",
+      "url": "https://gta.fandom.com/wiki/Rhinehart",
+      "stats": {
+        "speed": "84.345871",
+        "acceleration": "84.75",
+        "braking": "29.499998",
+        "traction": "69.242432"
+      }
+    },
+    {
+      "nome": null,
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/15/RomeroHearse-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929173527",
+      "url": "https://gta.fandom.com/wiki/Romero",
+      "stats": {
+        "speed": "67.068924",
+        "acceleration": "37.5",
+        "braking": "16.666668",
+        "traction": "59.090912"
+      }
+    },
+    {
+      "nome": null,
+      "categoria": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/15/Voodoo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929171018",
+      "url": "https://gta.fandom.com/wiki/Voodoo_(HD_Universe)",
+      "stats": {
+        "speed": "69.751678",
+        "acceleration": "42.5",
+        "braking": "8.333334",
+        "traction": "56.060608"
+      }
+    }
+  ]
+}
