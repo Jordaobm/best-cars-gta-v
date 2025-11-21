@@ -10,6 +10,7 @@ const CATEGORIAS_VALIDAS = [
   'Sedans',
   'Muscle',
   'Coupes',
+  'Coupe',
   'Compacts',
   'SUVs',
   'Motorcycles',
@@ -56,7 +57,8 @@ async function extrairEspecificacoesCarro(page, url) {
     // Extrai as especificações usando os seletores fornecidos
     const especificacoes = await page.evaluate(() => {
       const nome = document.querySelectorAll(".mw-page-title-main")?.[0]?.innerText || null;
-      const categoriaExtraida = document.querySelectorAll('.pi-data-value.pi-font')?.[4]?.children?.[0]?.innerText || null;
+      const categoriaPosicao3 = document.querySelectorAll('.pi-data-value.pi-font')?.[3]?.children?.[0]?.innerText || null;
+      const categoriaPosicao4 = document.querySelectorAll('.pi-data-value.pi-font')?.[4]?.children?.[0]?.innerText || null;
       const imagem = document.querySelectorAll('.pi-image-thumbnail')?.[1]?.src || null;
       const speed = document.querySelectorAll(".rssc-stats-data1.grid-item")?.[0]?.children?.[0]?.title || null;
       const acceleration = document.querySelectorAll(".rssc-stats-data2.grid-item")?.[0]?.children?.[0]?.title || null;
@@ -65,7 +67,8 @@ async function extrairEspecificacoesCarro(page, url) {
 
       return {
         nome,
-        categoriaExtraida,
+        categoriaPosicao3,
+        categoriaPosicao4,
         imagem,
         stats: {
           speed,
@@ -76,15 +79,22 @@ async function extrairEspecificacoesCarro(page, url) {
       };
     });
 
-    // Valida a categoria extraída
-    const categoriaValidada = validarCategoria(especificacoes.categoriaExtraida);
+    // Valida a categoria extraída com fallback
+    let categoriaValidada = validarCategoria(especificacoes.categoriaPosicao3);
+    let categoriaExtraida = especificacoes.categoriaPosicao3;
+
+    // Se não encontrou na posição 3, tenta na posição 4
+    if (categoriaValidada === 'NAO_ENCONTRADO') {
+      categoriaValidada = validarCategoria(especificacoes.categoriaPosicao4);
+      categoriaExtraida = especificacoes.categoriaPosicao4;
+    }
 
     console.log(`  ✓ Extraído: ${especificacoes.nome || 'Nome não encontrado'} - Categoria: ${categoriaValidada}`);
 
     return {
       nome: especificacoes.nome,
       categoria: categoriaValidada,
-      categoriaOriginal: especificacoes.categoriaExtraida,
+      categoriaOriginal: categoriaExtraida,
       imagem: especificacoes.imagem,
       stats: especificacoes.stats
     };
@@ -190,15 +200,6 @@ async function extrairTodosCarros() {
     console.log(`Categorias não encontradas: ${categoriasNaoEncontradas}`);
     console.log('\n✓ Arquivo salvo: especificacoes_carros.json');
 
-    // Cria também uma versão simplificada apenas com os carros válidos
-    const carrosValidos = carros.filter(c => c.nome);
-    fs.writeFileSync(
-      'carros_validos.json',
-      JSON.stringify(carrosValidos, null, 2),
-      'utf-8'
-    );
-    console.log(`✓ Arquivo salvo: carros_validos.json (${carrosValidos.length} carros)`);
-
   } catch (error) {
     console.error('\n✗ Erro durante a extração:', error);
     throw error;
@@ -214,13 +215,6 @@ function salvarProgresso(carros, quantidade) {
     data: new Date().toISOString(),
     carros: carros
   };
-
-  fs.writeFileSync(
-    'progresso_extracao.json',
-    JSON.stringify(progresso, null, 2),
-    'utf-8'
-  );
-  console.log(`  → Progresso salvo (${quantidade} carros processados)`);
 }
 
 // Executa a extração

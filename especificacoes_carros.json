@@ -1,28 +1,80 @@
 {
-  "total": 4,
-  "sucesso": 4,
-  "erros": 0,
-  "categoriasNaoEncontradas": 2,
-  "dataExtracao": "2025-11-21T16:59:55.797Z",
+  "total": 17,
+  "sucesso": 16,
+  "erros": 1,
+  "categoriasNaoEncontradas": 0,
+  "dataExtracao": "2025-11-21T17:14:50.598Z",
   "carros": [
     {
-      "url": "https://gta.fandom.com/wiki/BR8",
-      "nome": "BR8",
+      "url": "https://gta.fandom.com/wiki/DR1",
+      "nome": "DR1",
       "categoria": "Open-wheel car",
       "categoriaOriginal": "Open-wheel car",
-      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a8/BR8-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190502",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6c/DR1-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190519",
+      "stats": {
+        "speed": "87.32373",
+        "acceleration": "100",
+        "braking": "38.333332",
+        "traction": "96.727272"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/PR4",
+      "nome": "PR4",
+      "categoria": "Open-wheel car",
+      "categoriaOriginal": "Open-wheel car",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/ab/PR4-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190528",
       "stats": {
         "speed": "87.18959",
         "acceleration": "100",
-        "braking": "43.333332",
+        "braking": "41.666664",
+        "traction": "100"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/R88",
+      "nome": "R88",
+      "categoria": "Open-wheel car",
+      "categoriaOriginal": "Open-wheel car",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/40/R88-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250930190538",
+      "stats": {
+        "speed": "87.18959",
+        "acceleration": "100",
+        "braking": "41.666664",
+        "traction": "98.954544"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/811",
+      "nome": "811",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/29/811-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024130408",
+      "stats": {
+        "speed": "85.472633",
+        "acceleration": "89",
+        "braking": "37.333332",
+        "traction": "81.454544"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Autarch",
+      "nome": "Autarch",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/Autarch-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024130432",
+      "stats": {
+        "speed": "86.384766",
+        "acceleration": "94.25",
+        "braking": "40",
         "traction": "100"
       }
     },
     {
       "url": "https://gta.fandom.com/wiki/Adder",
       "nome": "Adder",
-      "categoria": "NAO_ENCONTRADO",
-      "categoriaOriginal": "2-door coupé",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9e/Adder-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20230402200727",
       "stats": {
         "speed": "85.848213",
@@ -32,29 +84,146 @@
       }
     },
     {
-      "url": "https://gta.fandom.com/wiki/300R",
-      "nome": "300R",
-      "categoria": "NAO_ENCONTRADO",
-      "categoriaOriginal": "2-door fastback coupe",
-      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5d/300R-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251011113045",
+      "url": "https://gta.fandom.com/wiki/Banshee_900R",
+      "nome": "Banshee 900R",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/Banshee900R-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024130453",
       "stats": {
-        "speed": "81.368004",
-        "acceleration": "82.199997",
-        "braking": "26",
+        "speed": "80.482697",
+        "acceleration": "86.875",
+        "braking": "33.333336",
+        "traction": "75.757576"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Krieger",
+      "nome": "Krieger",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e4/Krieger-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190728182510",
+      "stats": {
+        "speed": "86.814011",
+        "acceleration": "93.5",
+        "braking": "37.333332",
+        "traction": "100"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Vacca",
+      "nome": "Vacca",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/30/Vacca-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251002013940",
+      "stats": {
+        "speed": "81.555809",
+        "acceleration": "75",
+        "braking": "33.333336",
+        "traction": "78.787872"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Vagner",
+      "nome": "Vagner",
+      "categoria": "Super",
+      "categoriaOriginal": "Super",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/Vagner-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251002014118",
+      "stats": {
+        "speed": "86.331108",
+        "acceleration": "92.5",
+        "braking": "37.333332",
+        "traction": "91.686371"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Buffalo_S",
+      "nome": "Buffalo S",
+      "categoria": "Sports",
+      "categoriaOriginal": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a9/BuffaloS-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024132244",
+      "stats": {
+        "speed": "77.79994",
+        "acceleration": "72.5",
+        "braking": "29.999998",
+        "traction": "74.242424"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Corsita",
+      "nome": "Corsita",
+      "categoria": "Sports",
+      "categoriaOriginal": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/85/Corsita-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251012112300",
+      "stats": {
+        "speed": "87.377388",
+        "acceleration": "100",
+        "braking": "43.333332",
+        "traction": "100"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Sultan_RS_Classic",
+      "nome": "Sultan RS Classic",
+      "categoria": "Sports",
+      "categoriaOriginal": "Sports",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/45/SultanRSClassic-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164518",
+      "stats": {
+        "speed": "78.604767",
+        "acceleration": "84.625",
+        "braking": "17.333334",
         "traction": "75.606064"
       }
     },
     {
-      "url": "https://gta.fandom.com/wiki/8F_Drafter",
-      "nome": "8F Drafter",
-      "categoria": "Sports",
-      "categoriaOriginal": "Sports",
-      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/39/8FDrafter-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251011170658",
+      "url": "https://gta.fandom.com/wiki/Emperor_(HD_Universe)",
+      "nome": null,
+      "categoria": "NAO_ENCONTRADO",
+      "categoriaOriginal": null,
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Emperor-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180208",
       "stats": {
-        "speed": "80.482697",
-        "acceleration": "85.5",
-        "braking": "33.333336",
-        "traction": "81.666664"
+        "speed": "64.386162",
+        "acceleration": "35",
+        "braking": "20",
+        "traction": "57.575756"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Insurgent",
+      "nome": "Insurgent",
+      "categoria": "Off-Road",
+      "categoriaOriginal": "Off-Road",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fb/Insurgent-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160929162538",
+      "stats": {
+        "speed": "69.751678",
+        "acceleration": "50",
+        "braking": "20",
+        "traction": "60.606064"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Nimbus",
+      "nome": "Nimbus",
+      "categoria": "Planes",
+      "categoriaOriginal": "Planes",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/76/Nimbus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160609145048",
+      "stats": {
+        "speed": "99.86808",
+        "acceleration": "41.5",
+        "braking": "42.986168",
+        "traction": "13.444283"
+      }
+    },
+    {
+      "url": "https://gta.fandom.com/wiki/Volatol",
+      "nome": "Volatol",
+      "categoria": "Planes",
+      "categoriaOriginal": "Planes",
+      "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/99/Volatol-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20171218203050",
+      "stats": {
+        "speed": "87.941544",
+        "acceleration": "32.5",
+        "braking": "28.580999",
+        "traction": "1.009225"
       }
     }
   ]
