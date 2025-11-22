@@ -34,6 +34,10 @@ body {
 
 .title-page {
   font-size: 64px;
+  color: #fcaf17;
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
 }
 
 .grid-container {
@@ -176,4 +180,13 @@ body {
   select {
     font-size: 24px;
   }
+}
+
+.link {
+  color: #fcaf17;
+}
+
+.description-page {
+  font-size: 18px;
+  margin-bottom: 100px;
 }

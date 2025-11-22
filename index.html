@@ -16,6 +16,22 @@
   <body>
     <div id="filtros">
       <h1 class="title-page">Página de carros GTA Online</h1>
+      <p class="description-page">
+        A base de dados utilizada para esse ranking está no
+        <a
+          href="https://gta.fandom.com/wiki/Vehicles_in_GTA_Online"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link"
+          >gta.fandom</a
+        >
+      </p>
+
+      <p>Tunagem</p>
+      <select id="tunagem" onchange="filtrar()">
+        <option value="STOCK">STOCK</option>
+        <option value="MAXIMA">MÁXIMA</option>
+      </select>
 
       <p>Ordenar por:</p>
       <select id="tipoOrdenacao" onchange="filtrar()">
