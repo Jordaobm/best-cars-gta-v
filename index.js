@@ -70,17 +70,22 @@ function gridVehicle(categoria) {
 function vehicleCard(carro, index) {
   return `<div class="card">
 
+  
+
+  ${
+    carro?.imagem
+      ? `<img src="${carro.imagem}" alt="${carro.nome}" />`
+      : `<div class="no-image">Imagem não disponível</div>`
+  }
+  
   <div class="card-header">
-   <h2>${carro.nome}</h2>
-    <span>Colocação: ${index + 1}</span>
+   <h2 class="title">${carro.nome}</h2>
+    <span class="position">Posição: ${index + 1}</span>
+
   </div/>
 
-  
- <img src="${carro.imagem}" alt="${carro.nome}" />
-
-
    
-    <table>
+    <table class="specs-table">
     
     <tr>
     <th>Especificação</th>
@@ -89,28 +94,46 @@ function vehicleCard(carro, index) {
 
     <tr>
     <td>Velocidade</td>
-    <td>${carro.stats.speed}</td>
+    <td>${new Intl.NumberFormat("pt-BR", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 10,
+    }).format(carro.stats.speed)}</td>
     </tr>
-
     <tr>
     <td>Aceleração</td>
-    <td>${carro.stats.acceleration}</td>
+    <td>${new Intl.NumberFormat("pt-BR", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 10,
+    }).format(carro.stats.acceleration)}</td>
     </tr>
 
     <tr>
     <td>Frenagem</td>
-    <td>${carro.stats.braking}</td>
+    <td>${new Intl.NumberFormat("pt-BR", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 10,
+    }).format(carro.stats.braking)}</td>
     </tr>
 
      <tr>
     <td>Tração</td>
-    <td>${carro.stats.traction}</td>
+    <td>${new Intl.NumberFormat("pt-BR", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 10,
+    }).format(carro.stats.traction)}</td>
     </tr>
 
 
      <tr>
     <td>Pontuação</td>
-    <td>${carro.stats.score || "N/A"}</td>
+    <td>${
+      carro.stats.score
+        ? new Intl.NumberFormat("pt-BR", {
+            minimumFractionDigits: 2,
+            maximumFractionDigits: 10,
+          }).format(carro.stats.score)
+        : "N/A"
+    }</td>
     </tr>
 
 

@@ -1,29 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+@font-face {
+  font-family: "SignPainter";
+  src: url("./SignPainter-HouseScript2.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "SignPainter", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+select {
+  font-size: 28px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("./bg-repeat.png");
+  color: #fff;
+}
+
+.title-page {
+  font-size: 64px;
+}
+
 .grid-container {
   margin: 100px 0;
+  width: 100%;
+  max-width: 1222px;
+  margin: 0 auto;
+}
+
+#filtros {
+  margin: 100px 0;
+  width: 100%;
+  max-width: 1222px;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 38px;
 }
 
 .grid-items {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  row-gap: 20px;
-  gap: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
 }
 
 .card-header {
+  margin: 0;
+  padding: 0;
   display: flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: space-between;
+  align-items: start;
 }
 
 .nome-categoria {
-  font-size: 36px;
+  font-size: 48px;
   font-weight: 900;
-  color: #7500ac;
+  color: #fff;
 }
 
 #formula {
   margin: 20px 0;
   font-size: 24px;
-  font-weight: 700;
-  color: green;
+  font-weight: 400;
+}
+
+.specs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Inter", sans-serif;
+}
+
+.specs-table th,
+.specs-table td {
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+#cars {
+}
+
+.no-image {
+  width: 268px;
+  height: 151px;
+  background-color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #757575;
+}
+
+.title {
+  font-size: 32px;
+  margin: 0;
+  padding: 0;
+}
+
+.position {
+  font-size: 22px;
+  font-weight: 400;
+  color: #555555;
 }
