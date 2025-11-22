@@ -67,7 +67,6 @@ function gridVehicle(categoria) {
   
   </section>`;
 }
-
 function vehicleCard(carro, index) {
   return `<div class="card">
 
@@ -75,6 +74,10 @@ function vehicleCard(carro, index) {
    <h2>${carro.nome}</h2>
     <span>Colocação: ${index + 1}</span>
   </div/>
+
+  
+ <img src="${carro.imagem}" alt="${carro.nome}" />
+
 
    
     <table>
@@ -131,8 +134,6 @@ function filtrar() {
       CATEGORIAS_HTML = CATEGORIAS_HTML.filter(
         (categoria) => categoria.nome === categoriaSelecionada
       );
-    } else {
-      init();
     }
 
     if (tipoOrdenacao === "ALFABETICA") {

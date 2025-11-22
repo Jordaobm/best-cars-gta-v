@@ -861,7 +861,7 @@
     },
     {
       "nome": "Banshee",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/64/Banshee-GTAVI-Trailer2.png/revision/latest/scale-to-width-down/268?cb=20250506212454",
       "url": "https://gta.fandom.com/wiki/Banshee_(HD_Universe)",
       "stats": {
@@ -1125,7 +1125,7 @@
     },
     {
       "nome": "Drift Tampa",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/DriftTampa-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251024135022",
       "url": "https://gta.fandom.com/wiki/Drift_Tampa",
       "stats": {
@@ -1317,7 +1317,7 @@
     },
     {
       "nome": "Growler",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9c/Growler-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025212601",
       "url": "https://gta.fandom.com/wiki/Growler",
       "stats": {
@@ -1353,7 +1353,7 @@
     },
     {
       "nome": "Hotring Sabre",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2a/HotringSabre-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251025213556",
       "url": "https://gta.fandom.com/wiki/Hotring_Sabre",
       "stats": {
@@ -1437,7 +1437,7 @@
     },
     {
       "nome": "Jester Classic",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/JesterClassic-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193133",
       "url": "https://gta.fandom.com/wiki/Jester_Classic",
       "stats": {
@@ -1449,7 +1449,7 @@
     },
     {
       "nome": "Jester RR",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/JesterRR-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193139",
       "url": "https://gta.fandom.com/wiki/Jester_RR",
       "stats": {
@@ -1809,7 +1809,7 @@
     },
     {
       "nome": "Remus",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/88/Remus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164509",
       "url": "https://gta.fandom.com/wiki/Remus",
       "stats": {
@@ -1941,7 +1941,7 @@
     },
     {
       "nome": "Sentinel Classic Widebody",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2b/SentinelClassicWidebody-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20220809140359",
       "url": "https://gta.fandom.com/wiki/Sentinel_Classic_Widebody",
       "stats": {
@@ -2025,7 +2025,7 @@
     },
     {
       "nome": "Stinger TT",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d3/StingerTT-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613215729",
       "url": "https://gta.fandom.com/wiki/Stinger_TT",
       "stats": {
@@ -2097,7 +2097,7 @@
     },
     {
       "nome": "Surano",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/SuranoDown-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160305181513",
       "url": "https://gta.fandom.com/wiki/Surano",
       "stats": {
@@ -2121,7 +2121,7 @@
     },
     {
       "nome": "Vectre",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/Vectre-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20210720164526",
       "url": "https://gta.fandom.com/wiki/Vectre",
       "stats": {
@@ -2205,7 +2205,7 @@
     },
     {
       "nome": "Apocalypse ZR380",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/20/ApocalypseZR380-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214201711",
       "url": "https://gta.fandom.com/wiki/Apocalypse_ZR380",
       "stats": {
@@ -2217,7 +2217,7 @@
     },
     {
       "nome": "Future Shock ZR380",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9e/FutureShockZR380-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214201713",
       "url": "https://gta.fandom.com/wiki/Future_Shock_ZR380",
       "stats": {
@@ -2229,7 +2229,7 @@
     },
     {
       "nome": "Nightmare ZR380",
-      "categoria": null,
+      "categoria": "Sports",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/06/NightmareZR380-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214201719",
       "url": "https://gta.fandom.com/wiki/Nightmare_ZR380",
       "stats": {
@@ -2444,8 +2444,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Jester Classic",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/JesterClassic-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193133",
       "url": "https://gta.fandom.com/wiki/Jester_Classic_(Drift_Tune)",
       "stats": {
@@ -2469,7 +2469,7 @@
     },
     {
       "nome": "Manana",
-      "categoria": null,
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/ed/Manana-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160304225517",
       "url": "https://gta.fandom.com/wiki/Manana",
       "stats": {
@@ -2505,7 +2505,7 @@
     },
     {
       "nome": "Nebula Turbo",
-      "categoria": null,
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/73/NebulaTurbo-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190723230358",
       "url": "https://gta.fandom.com/wiki/Nebula_Turbo",
       "stats": {
@@ -2516,8 +2516,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Nebula Turbo",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/73/NebulaTurbo-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190723230358",
       "url": "https://gta.fandom.com/wiki/Nebula_Turbo_(Drift_Tune)",
       "stats": {
@@ -2672,7 +2672,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Stromberg",
       "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c4/Stromberg-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190528083813",
       "url": "https://gta.fandom.com/wiki/Stromberg_(car)",
@@ -2721,7 +2721,7 @@
     },
     {
       "nome": "Tornado",
-      "categoria": null,
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2f/Tornado-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180331183746",
       "url": "https://gta.fandom.com/wiki/Tornado",
       "stats": {
@@ -2732,8 +2732,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tornado",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/18/Tornado2Up-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180331183743",
       "url": "https://gta.fandom.com/wiki/Tornado_(cabrio)",
       "stats": {
@@ -2744,8 +2744,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tornado",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/74/Tornado3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180331183744",
       "url": "https://gta.fandom.com/wiki/Tornado_(rusted)",
       "stats": {
@@ -2756,8 +2756,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tornado",
+      "categoria": "Sports Classics",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/66/Tornado4-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160318213005",
       "url": "https://gta.fandom.com/wiki/Tornado_(Mariachi)",
       "stats": {
@@ -2853,7 +2853,7 @@
     },
     {
       "nome": "Asea",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Asea-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406180243",
       "url": "https://gta.fandom.com/wiki/Asea",
       "stats": {
@@ -2864,8 +2864,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Asea",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e3/Asea2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160917180857",
       "url": "https://gta.fandom.com/wiki/Asea_(snowed)",
       "stats": {
@@ -2901,7 +2901,7 @@
     },
     {
       "nome": "Chavos V6",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/81/ChavosV6-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20241210204721",
       "url": "https://gta.fandom.com/wiki/Chavos_V6",
       "stats": {
@@ -2912,8 +2912,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Chavos V6",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/81/ChavosV6-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20241210204721",
       "url": "https://gta.fandom.com/wiki/Chavos_V6_(Drift_Tune)",
       "stats": {
@@ -2996,8 +2996,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Emperor",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Emperor-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180208",
       "url": "https://gta.fandom.com/wiki/Emperor_(HD_Universe)",
       "stats": {
@@ -3008,8 +3008,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Emperor",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c8/Emperor2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626144224",
       "url": "https://gta.fandom.com/wiki/Emperor_(rusted)",
       "stats": {
@@ -3020,8 +3020,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Emperor",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f5/Emperor3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160916164928",
       "url": "https://gta.fandom.com/wiki/Emperor_(snowed)",
       "stats": {
@@ -3044,8 +3044,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Glendale",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/47/Glendale-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20150530113232",
       "url": "https://gta.fandom.com/wiki/Glendale_(HD_Universe)",
       "stats": {
@@ -3069,7 +3069,7 @@
     },
     {
       "nome": "Hardy",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1b/Hardy-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250619002546",
       "url": "https://gta.fandom.com/wiki/Hardy",
       "stats": {
@@ -3081,7 +3081,7 @@
     },
     {
       "nome": "Hardy (Drift Tune)",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Hardy_(Drift_Tune)",
       "stats": {
@@ -3104,8 +3104,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Intruder",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f0/Intruder-GTAVI-Trailer2.png/revision/latest/scale-to-width-down/268?cb=20250808071742",
       "url": "https://gta.fandom.com/wiki/Intruder_(HD_Universe)",
       "stats": {
@@ -3129,7 +3129,7 @@
     },
     {
       "nome": "Premier",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/Premier-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180637",
       "url": "https://gta.fandom.com/wiki/Premier",
       "stats": {
@@ -3140,8 +3140,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Primo",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/10/Primo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406175756",
       "url": "https://gta.fandom.com/wiki/Primo_(HD_Universe)",
       "stats": {
@@ -3188,8 +3188,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Romero",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/15/RomeroHearse-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929173527",
       "url": "https://gta.fandom.com/wiki/Romero",
       "stats": {
@@ -3201,7 +3201,7 @@
     },
     {
       "nome": "Schafter",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6d/Schafter-GTAIV-front.png/revision/latest/scale-to-width-down/268?cb=20170122142823",
       "url": "https://gta.fandom.com/wiki/Schafter",
       "stats": {
@@ -3273,7 +3273,7 @@
     },
     {
       "nome": "Stretch",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/48/Stretch-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160409182123",
       "url": "https://gta.fandom.com/wiki/Stretch",
       "stats": {
@@ -3345,7 +3345,7 @@
     },
     {
       "nome": "Vorschlaghammer",
-      "categoria": null,
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/Vorschlaghammer-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20240711214556",
       "url": "https://gta.fandom.com/wiki/Vorschlaghammer",
       "stats": {
@@ -3356,8 +3356,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Vorschlaghammer",
+      "categoria": "Sedans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a3/DriftVorschlaghammer-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20240711214544",
       "url": "https://gta.fandom.com/wiki/Vorschlaghammer_(Drift_Tune)",
       "stats": {
@@ -3393,7 +3393,7 @@
     },
     {
       "nome": "Washington",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/12/Washington-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160410151922",
       "url": "https://gta.fandom.com/wiki/Washington",
       "stats": {
@@ -3405,7 +3405,7 @@
     },
     {
       "nome": "Arbiter GT",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/70/ArbiterGT-GTAOee-front.png/revision/latest/scale-to-width-down/268?cb=20230216214844",
       "url": "https://gta.fandom.com/wiki/Arbiter_GT",
       "stats": {
@@ -3416,7 +3416,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Blade",
       "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f3/Blade-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160410132747",
       "url": "https://gta.fandom.com/wiki/Blade_(car)",
@@ -3452,8 +3452,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Buccaneer",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9f/Buccaneer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406175914",
       "url": "https://gta.fandom.com/wiki/Buccaneer_(HD_Universe)",
       "stats": {
@@ -3609,7 +3609,7 @@
     },
     {
       "nome": "Dominator FX (Drift Tune)",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Dominator_FX_(Drift_Tune)",
       "stats": {
@@ -3657,7 +3657,7 @@
     },
     {
       "nome": "Apocalypse Dominator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2b/ApocalypseDominator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181219160805",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Dominator",
       "stats": {
@@ -3669,7 +3669,7 @@
     },
     {
       "nome": "Future Shock Dominator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d6/FutureShockDominator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171151",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Dominator",
       "stats": {
@@ -3681,7 +3681,7 @@
     },
     {
       "nome": "Nightmare Dominator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/NightmareDominator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181219160806",
       "url": "https://gta.fandom.com/wiki/Nightmare_Dominator",
       "stats": {
@@ -3705,7 +3705,7 @@
     },
     {
       "nome": "Duke O'Death",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4d/DukeODeath-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20210727005751",
       "url": "https://gta.fandom.com/wiki/Duke_O%27Death",
       "stats": {
@@ -3716,7 +3716,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Dukes",
       "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/53/Dukes-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20150530114053",
       "url": "https://gta.fandom.com/wiki/Dukes_(car)",
@@ -3837,7 +3837,7 @@
     },
     {
       "nome": "Gauntlet Hellfire",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/40/GauntletHellfire-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190723230556",
       "url": "https://gta.fandom.com/wiki/Gauntlet_Hellfire",
       "stats": {
@@ -3849,7 +3849,7 @@
     },
     {
       "nome": "Gauntlet Hellfire (Drift Tune)",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Gauntlet_Hellfire_(Drift_Tune)",
       "stats": {
@@ -3872,8 +3872,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Greenwood",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/Greenwood-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20220809140252",
       "url": "https://gta.fandom.com/wiki/Greenwood_(HD_Universe)",
       "stats": {
@@ -3957,7 +3957,7 @@
     },
     {
       "nome": "Apocalypse Impaler",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/19/ApocalypseImpaler-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171150",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Impaler",
       "stats": {
@@ -3969,7 +3969,7 @@
     },
     {
       "nome": "Future Shock Impaler",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/78/FutureShockImpaler-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171150",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Impaler",
       "stats": {
@@ -3981,7 +3981,7 @@
     },
     {
       "nome": "Nightmare Impaler",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/71/NightmareImpaler-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171149",
       "url": "https://gta.fandom.com/wiki/Nightmare_Impaler",
       "stats": {
@@ -3993,7 +3993,7 @@
     },
     {
       "nome": "Apocalypse Imperator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f2/ApocalypseImperator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165021",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Imperator",
       "stats": {
@@ -4005,7 +4005,7 @@
     },
     {
       "nome": "Future Shock Imperator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/40/FutureShockImperator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165022",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Imperator",
       "stats": {
@@ -4017,7 +4017,7 @@
     },
     {
       "nome": "Nightmare Imperator",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/82/NightmareImperator-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165022",
       "url": "https://gta.fandom.com/wiki/Nightmare_Imperator",
       "stats": {
@@ -4100,8 +4100,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Phoenix",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/af/Phoenix-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160304230504",
       "url": "https://gta.fandom.com/wiki/Phoenix_(HD_Universe)",
       "stats": {
@@ -4160,8 +4160,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Ruiner",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/Ruiner3-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161213201554",
       "url": "https://gta.fandom.com/wiki/Ruiner_(wreck)",
       "stats": {
@@ -4173,7 +4173,7 @@
     },
     {
       "nome": "Ruiner 2000",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Ruiner2000-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161215193507",
       "url": "https://gta.fandom.com/wiki/Ruiner_2000",
       "stats": {
@@ -4220,8 +4220,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Slamvan",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/Slamvan-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20151212234539",
       "url": "https://gta.fandom.com/wiki/Slamvan_(HD_Universe)",
       "stats": {
@@ -4257,7 +4257,7 @@
     },
     {
       "nome": "Apocalypse Slamvan",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/75/ApocalypseSlamvan-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165018",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Slamvan",
       "stats": {
@@ -4269,7 +4269,7 @@
     },
     {
       "nome": "Future Shock Slamvan",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/dc/FutureShockSlamvan-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165019",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Slamvan",
       "stats": {
@@ -4281,7 +4281,7 @@
     },
     {
       "nome": "Nightmare Slamvan",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/NightmareSlamvan-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165019",
       "url": "https://gta.fandom.com/wiki/Nightmare_Slamvan",
       "stats": {
@@ -4293,7 +4293,7 @@
     },
     {
       "nome": "Stallion",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/00/Stallion-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160702194827",
       "url": "https://gta.fandom.com/wiki/Stallion",
       "stats": {
@@ -4353,7 +4353,7 @@
     },
     {
       "nome": "Tahoma Coupe",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1a/TahomaCoupe-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20221220172545",
       "url": "https://gta.fandom.com/wiki/Tahoma_Coupe",
       "stats": {
@@ -4436,8 +4436,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Virgo",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/24/Virgo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160302174203",
       "url": "https://gta.fandom.com/wiki/Virgo_(HD_Universe)",
       "stats": {
@@ -4449,7 +4449,7 @@
     },
     {
       "nome": "Virgo Classic",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1b/VirgoClassic-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160316181420",
       "url": "https://gta.fandom.com/wiki/Virgo_Classic",
       "stats": {
@@ -4472,8 +4472,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Voodoo",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/15/Voodoo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929171018",
       "url": "https://gta.fandom.com/wiki/Voodoo_(HD_Universe)",
       "stats": {
@@ -4521,7 +4521,7 @@
     },
     {
       "nome": "Drift Yosemite",
-      "categoria": null,
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7f/DriftYosemite-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20191213212812",
       "url": "https://gta.fandom.com/wiki/Drift_Yosemite",
       "stats": {
@@ -4532,8 +4532,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Yosemite",
+      "categoria": "Muscle",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7f/DriftYosemite-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20191213212812",
       "url": "https://gta.fandom.com/wiki/Drift_Yosemite_(Drift_Tune)",
       "stats": {
@@ -4617,7 +4617,7 @@
     },
     {
       "nome": "FR36",
-      "categoria": null,
+      "categoria": "Coupes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/FR36-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201012",
       "url": "https://gta.fandom.com/wiki/FR36",
       "stats": {
@@ -4628,8 +4628,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "FR36_",
+      "categoria": "Coupes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/FR36-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201012",
       "url": "https://gta.fandom.com/wiki/FR36_(Drift_Tune)",
       "stats": {
@@ -4665,7 +4665,7 @@
     },
     {
       "nome": "Oracle",
-      "categoria": null,
+      "categoria": "Coupes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f6/Oracle-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230623151704",
       "url": "https://gta.fandom.com/wiki/Oracle",
       "stats": {
@@ -4677,7 +4677,7 @@
     },
     {
       "nome": "Oracle XS",
-      "categoria": null,
+      "categoria": "Coupes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/22/OracleXS-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160409181541",
       "url": "https://gta.fandom.com/wiki/Oracle_XS",
       "stats": {
@@ -4713,7 +4713,7 @@
     },
     {
       "nome": "Sentinel",
-      "categoria": null,
+      "categoria": "Coupes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Sentinel-GTAIV-front.png/revision/latest/scale-to-width-down/268?cb=20170122142826",
       "url": "https://gta.fandom.com/wiki/Sentinel",
       "stats": {
@@ -4869,7 +4869,7 @@
     },
     {
       "nome": "Dilettante",
-      "categoria": null,
+      "categoria": "Compacts",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/84/Dilettante-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20231012173443",
       "url": "https://gta.fandom.com/wiki/Dilettante",
       "stats": {
@@ -4880,8 +4880,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dilettante",
+      "categoria": "Compacts",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9d/Dilettante2-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20231012173438",
       "url": "https://gta.fandom.com/wiki/Dilettante_(Merryweather)",
       "stats": {
@@ -4893,7 +4893,7 @@
     },
     {
       "nome": "Apocalypse Issi",
-      "categoria": null,
+      "categoria": "Compacts",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/ea/ApocalypseIssi-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193634",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Issi",
       "stats": {
@@ -4905,7 +4905,7 @@
     },
     {
       "nome": "Future Shock Issi",
-      "categoria": null,
+      "categoria": "Compacts",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7a/FutureShockIssi-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193634",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Issi",
       "stats": {
@@ -4917,7 +4917,7 @@
     },
     {
       "nome": "Nightmare Issi",
-      "categoria": null,
+      "categoria": "Compacts",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b0/NightmareIssi-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193635",
       "url": "https://gta.fandom.com/wiki/Nightmare_Issi",
       "stats": {
@@ -5037,7 +5037,7 @@
     },
     {
       "nome": "Baller",
-      "categoria": null,
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/Baller-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193111",
       "url": "https://gta.fandom.com/wiki/Baller",
       "stats": {
@@ -5048,8 +5048,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Baller",
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/bd/Baller2-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193105",
       "url": "https://gta.fandom.com/wiki/Baller_(second_generation)",
       "stats": {
@@ -5157,7 +5157,7 @@
     },
     {
       "nome": "Cavalcade",
-      "categoria": null,
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/57/Cavalcade-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230623151646",
       "url": "https://gta.fandom.com/wiki/Cavalcade",
       "stats": {
@@ -5168,8 +5168,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cavalcade",
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0a/Cavalcade2-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230623151642",
       "url": "https://gta.fandom.com/wiki/Cavalcade_(second_generation)",
       "stats": {
@@ -5217,7 +5217,7 @@
     },
     {
       "nome": "Dubsta",
-      "categoria": null,
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/db/Dubsta-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193131",
       "url": "https://gta.fandom.com/wiki/Dubsta",
       "stats": {
@@ -5228,8 +5228,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dubsta",
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/81/Dubsta2-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193125",
       "url": "https://gta.fandom.com/wiki/Dubsta_(custom)",
       "stats": {
@@ -5384,7 +5384,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Mesa",
       "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/70/Mesa-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20240213231928",
       "url": "https://gta.fandom.com/wiki/Mesa_(HD_Universe)",
@@ -5493,7 +5493,7 @@
     },
     {
       "nome": "Serrano",
-      "categoria": null,
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3d/Serrano-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160409182018",
       "url": "https://gta.fandom.com/wiki/Serrano",
       "stats": {
@@ -5517,7 +5517,7 @@
     },
     {
       "nome": "Toros",
-      "categoria": null,
+      "categoria": "SUVs",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d3/Toros-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214174204",
       "url": "https://gta.fandom.com/wiki/Toros",
       "stats": {
@@ -5577,7 +5577,7 @@
     },
     {
       "nome": "Akuma",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/Akuma-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160127214020",
       "url": "https://gta.fandom.com/wiki/Akuma",
       "stats": {
@@ -5589,7 +5589,7 @@
     },
     {
       "nome": "Apocalypse Deathbike",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/ApocalypseDeathbike-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165020",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Deathbike",
       "stats": {
@@ -5601,7 +5601,7 @@
     },
     {
       "nome": "Future Shock Deathbike",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/ba/FutureShockDeathbike-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165020",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Deathbike",
       "stats": {
@@ -5613,7 +5613,7 @@
     },
     {
       "nome": "Nightmare Deathbike",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6e/NightmareDeathbike-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181215165021",
       "url": "https://gta.fandom.com/wiki/Nightmare_Deathbike",
       "stats": {
@@ -5648,7 +5648,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Bati 801",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/Bati801-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160127211358",
       "url": "https://gta.fandom.com/wiki/Bati_801",
@@ -5660,7 +5660,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Bati_801RR",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e3/Bati801RR-GTAV-front-Sprunk.png/revision/latest/scale-to-width-down/268?cb=20160214210359",
       "url": "https://gta.fandom.com/wiki/Bati_801RR",
@@ -5672,8 +5672,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "BF400",
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/00/BF400-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161014164436",
       "url": "https://gta.fandom.com/wiki/BF400",
       "stats": {
@@ -5721,7 +5721,7 @@
     },
     {
       "nome": "Daemon",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/Daemon-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160208212049",
       "url": "https://gta.fandom.com/wiki/Daemon",
       "stats": {
@@ -5732,8 +5732,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Daemon",
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6b/Daemon2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161014164637",
       "url": "https://gta.fandom.com/wiki/Daemon_(custom)",
       "stats": {
@@ -5780,7 +5780,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Double T",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/8c/DoubleT-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160126212153",
       "url": "https://gta.fandom.com/wiki/Double_T",
@@ -5816,8 +5816,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Faggio",
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/91/Faggio-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160204205826",
       "url": "https://gta.fandom.com/wiki/Faggio_(HD_Universe)",
       "stats": {
@@ -5900,7 +5900,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Hakuchou Drag",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/HakuchouDrag-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190921155821",
       "url": "https://gta.fandom.com/wiki/Hakuchou_Drag",
@@ -6044,8 +6044,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Pizza Boy",
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/95/PizzaBoy-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20240625175431",
       "url": "https://gta.fandom.com/wiki/Pizza_Boy_(HD_Universe)",
       "stats": {
@@ -6093,7 +6093,7 @@
     },
     {
       "nome": "Reever",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/af/Reever-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20211223015832",
       "url": "https://gta.fandom.com/wiki/Reever",
       "stats": {
@@ -6116,7 +6116,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Sanchez",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/46/Sanchez-GTAV-front-Sprunk.png/revision/latest/scale-to-width-down/268?cb=20160222221309",
       "url": "https://gta.fandom.com/wiki/Sanchez_(livery)",
@@ -6129,7 +6129,7 @@
     },
     {
       "nome": "Sanchez",
-      "categoria": null,
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0a/Sanchez-GTAVI-Trailer1.png/revision/latest/scale-to-width-down/268?cb=20250923002752",
       "url": "https://gta.fandom.com/wiki/Sanchez",
       "stats": {
@@ -6236,7 +6236,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Vortex",
       "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/71/Vortex-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161004181943",
       "url": "https://gta.fandom.com/wiki/Vortex_(motorcycle)",
@@ -6272,8 +6272,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Zombie Chopper",
+      "categoria": "Motorcycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/70/ZombieChopper-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161004181804",
       "url": "https://gta.fandom.com/wiki/Zombie_Chopper",
       "stats": {
@@ -6284,8 +6284,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Ambulance",
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/ee/Ambulance-GTAV-front-LSMC.png/revision/latest/scale-to-width-down/268?cb=20160116221217",
       "url": "https://gta.fandom.com/wiki/Ambulance_(HD_Universe)",
       "stats": {
@@ -6356,8 +6356,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "FIB Buffalo",
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/87/FIB-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20151222203022",
       "url": "https://gta.fandom.com/wiki/FIB_Buffalo",
       "stats": {
@@ -6368,8 +6368,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "FIB",
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20151217204743",
       "url": "https://gta.fandom.com/wiki/FIB_(vehicle)",
       "stats": {
@@ -6380,8 +6380,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Fire Truck",
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6d/Firetruck-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20241019170053",
       "url": "https://gta.fandom.com/wiki/Fire_Truck_(HD_Universe)",
       "stats": {
@@ -6477,7 +6477,7 @@
     },
     {
       "nome": "Police Bike",
-      "categoria": null,
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/70/PoliceBike-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170524183918",
       "url": "https://gta.fandom.com/wiki/Police_Bike",
       "stats": {
@@ -6488,8 +6488,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Police Bike",
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/9d/PoliceBike2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250619002615",
       "url": "https://gta.fandom.com/wiki/Police_Bike_(custom)",
       "stats": {
@@ -6501,7 +6501,7 @@
     },
     {
       "nome": "Police Cruiser",
-      "categoria": null,
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/bd/PoliceCruiser-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160311203102",
       "url": "https://gta.fandom.com/wiki/Police_Cruiser",
       "stats": {
@@ -6513,7 +6513,7 @@
     },
     {
       "nome": "Police Crusier (interceptor)",
-      "categoria": null,
+      "categoria": "Emergency",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Police_Crusier_(interceptor)",
       "stats": {
@@ -6525,7 +6525,7 @@
     },
     {
       "nome": "Prison Bus",
-      "categoria": null,
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/55/PolicePrisonBus-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170530185420",
       "url": "https://gta.fandom.com/wiki/Prison_Bus",
       "stats": {
@@ -6549,7 +6549,7 @@
     },
     {
       "nome": "Police Transporter",
-      "categoria": null,
+      "categoria": "Emergency",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/60/PoliceTransporter-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160111211416",
       "url": "https://gta.fandom.com/wiki/Police_Transporter",
       "stats": {
@@ -6633,7 +6633,7 @@
     },
     {
       "nome": "Apocalypse Bruiser",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/ApocalypseBruiser-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214173051",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Bruiser",
       "stats": {
@@ -6645,7 +6645,7 @@
     },
     {
       "nome": "Future Shock Bruiser",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/FutureShockBruiser-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214173052",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Bruiser",
       "stats": {
@@ -6657,7 +6657,7 @@
     },
     {
       "nome": "Nightmare Bruiser",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/61/NightmareBruiser-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214173052",
       "url": "https://gta.fandom.com/wiki/Nightmare_Bruiser",
       "stats": {
@@ -6669,7 +6669,7 @@
     },
     {
       "nome": "Apocalypse Brutus",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a0/ApocalypseBrutus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171159",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Brutus",
       "stats": {
@@ -6681,7 +6681,7 @@
     },
     {
       "nome": "Future Shock Brutus",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/25/FutureShockBrutus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171159",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Brutus",
       "stats": {
@@ -6693,7 +6693,7 @@
     },
     {
       "nome": "Nightmare Brutus",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/NightmareBrutus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190106171153",
       "url": "https://gta.fandom.com/wiki/Nightmare_Brutus",
       "stats": {
@@ -6945,7 +6945,7 @@
     },
     {
       "nome": "BF Injection",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/52/BFInjection-GTAVCS-front.jpg/revision/latest/scale-to-width-down/268?cb=20240716014048",
       "url": "https://gta.fandom.com/wiki/BF_Injection",
       "stats": {
@@ -7017,7 +7017,7 @@
     },
     {
       "nome": "Menacer",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/Menacer-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20180725180613",
       "url": "https://gta.fandom.com/wiki/Menacer",
       "stats": {
@@ -7029,7 +7029,7 @@
     },
     {
       "nome": "MonstroCiti",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1c/MonstroCiti-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613222526",
       "url": "https://gta.fandom.com/wiki/MonstroCiti",
       "stats": {
@@ -7064,7 +7064,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Mesa",
       "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3c/Mesa3-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20240213231916",
       "url": "https://gta.fandom.com/wiki/Mesa_(off-road)",
@@ -7101,7 +7101,7 @@
     },
     {
       "nome": "Ramp Buggy",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/55/RampBuggy2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161213202129",
       "url": "https://gta.fandom.com/wiki/Ramp_Buggy",
       "stats": {
@@ -7112,8 +7112,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Ramp Buggy",
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b6/RampBuggy-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20161213202059",
       "url": "https://gta.fandom.com/wiki/Ramp_Buggy_(spoiler-fitted)",
       "stats": {
@@ -7125,7 +7125,7 @@
     },
     {
       "nome": "Rancher XL",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/59/RancherXL-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20190814130953",
       "url": "https://gta.fandom.com/wiki/Rancher_XL",
       "stats": {
@@ -7161,7 +7161,7 @@
     },
     {
       "nome": "Rebel",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Rebel-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250208193232",
       "url": "https://gta.fandom.com/wiki/Rebel",
       "stats": {
@@ -7221,7 +7221,7 @@
     },
     {
       "nome": "Apocalypse Sasquatch",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/28/ApocalypseSasquatch-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190821204147",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Sasquatch",
       "stats": {
@@ -7233,7 +7233,7 @@
     },
     {
       "nome": "Future Shock Sasquatch",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/44/FutureShockSasquatch-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190821204156",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Sasquatch",
       "stats": {
@@ -7245,7 +7245,7 @@
     },
     {
       "nome": "Nightmare Sasquatch",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/30/NightmareSasquatch-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190821204204",
       "url": "https://gta.fandom.com/wiki/Nightmare_Sasquatch",
       "stats": {
@@ -7340,8 +7340,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "The Liberator",
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/Liberator-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929162837",
       "url": "https://gta.fandom.com/wiki/The_Liberator",
       "stats": {
@@ -7353,7 +7353,7 @@
     },
     {
       "nome": "Walton L35",
-      "categoria": null,
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/78/WaltonL35-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613215735",
       "url": "https://gta.fandom.com/wiki/Walton_L35",
       "stats": {
@@ -7460,8 +7460,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Benson",
+      "categoria": "Off-Road",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e8/Benson-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160918135526",
       "url": "https://gta.fandom.com/wiki/Benson_(HD_Universe)",
       "stats": {
@@ -7497,7 +7497,7 @@
     },
     {
       "nome": "Apocalypse Cerberus",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/ApocalypseCerberus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190814130824",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Cerberus",
       "stats": {
@@ -7509,7 +7509,7 @@
     },
     {
       "nome": "Future Shock Cerberus",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/FutureShockCerberus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190814130927",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Cerberus",
       "stats": {
@@ -7521,7 +7521,7 @@
     },
     {
       "nome": "Nightmare Cerberus",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3c/NightmareCerberus-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190814130935",
       "url": "https://gta.fandom.com/wiki/Nightmare_Cerberus",
       "stats": {
@@ -7557,7 +7557,7 @@
     },
     {
       "nome": "Mule",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Mule-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626145603",
       "url": "https://gta.fandom.com/wiki/Mule",
       "stats": {
@@ -7568,8 +7568,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Mule",
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/90/Mule2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929163136",
       "url": "https://gta.fandom.com/wiki/Mule_(ramp-door)",
       "stats": {
@@ -7580,8 +7580,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Mule",
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6a/Mule3-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160929163213",
       "url": "https://gta.fandom.com/wiki/Mule_(heist)",
       "stats": {
@@ -7592,8 +7592,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Mule",
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/54/Mule5-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20211224043122",
       "url": "https://gta.fandom.com/wiki/Mule_(Short_Trips)",
       "stats": {
@@ -7629,7 +7629,7 @@
     },
     {
       "nome": "Phantom",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Phantom-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160702200418",
       "url": "https://gta.fandom.com/wiki/Phantom",
       "stats": {
@@ -7640,8 +7640,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Phantom",
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/31/Phantom4-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201048",
       "url": "https://gta.fandom.com/wiki/Phantom_(Happy_Holidays)",
       "stats": {
@@ -7700,8 +7700,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Securicar",
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/50/Stockade-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20240105191207",
       "url": "https://gta.fandom.com/wiki/Securicar_(HD_Universe)",
       "stats": {
@@ -7713,7 +7713,7 @@
     },
     {
       "nome": "Bobcat Security Stockade",
-      "categoria": null,
+      "categoria": "Commercial",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0a/BobcatSecurityStockade-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250619002524",
       "url": "https://gta.fandom.com/wiki/Bobcat_Security_Stockade",
       "stats": {
@@ -7725,7 +7725,7 @@
     },
     {
       "nome": "Terrorbyte",
-      "categoria": null,
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/96/Terrorbyte-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20180725175825",
       "url": "https://gta.fandom.com/wiki/Terrorbyte",
       "stats": {
@@ -7773,7 +7773,7 @@
     },
     {
       "nome": "Flatbed",
-      "categoria": null,
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c3/Flatbed-GTAIV-front.png/revision/latest/scale-to-width-down/268?cb=20170223191201",
       "url": "https://gta.fandom.com/wiki/Flatbed",
       "stats": {
@@ -7809,7 +7809,7 @@
     },
     {
       "nome": "Mixer",
-      "categoria": null,
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5d/Mixer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160625231645",
       "url": "https://gta.fandom.com/wiki/Mixer",
       "stats": {
@@ -7820,8 +7820,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Mixer",
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/12/Mixer2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626145602",
       "url": "https://gta.fandom.com/wiki/Mixer_(4-axle)",
       "stats": {
@@ -7845,7 +7845,7 @@
     },
     {
       "nome": "Tipper",
-      "categoria": null,
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/11/Tipper-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018181108",
       "url": "https://gta.fandom.com/wiki/Tipper",
       "stats": {
@@ -7856,8 +7856,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tipper",
+      "categoria": "Heavy truck",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Tipper2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018181106",
       "url": "https://gta.fandom.com/wiki/Tipper_(3-axle)",
       "stats": {
@@ -7893,7 +7893,7 @@
     },
     {
       "nome": "Brickade 6x6",
-      "categoria": null,
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/ba/Brickade6x6-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20221220172647",
       "url": "https://gta.fandom.com/wiki/Brickade_6x6",
       "stats": {
@@ -7904,8 +7904,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Bus",
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/93/Bus-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180331183551",
       "url": "https://gta.fandom.com/wiki/Bus_(HD_Universe)",
       "stats": {
@@ -7964,8 +7964,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Taxi",
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f6/Taxi-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20230119194740",
       "url": "https://gta.fandom.com/wiki/Taxi_(HD_Universe)",
       "stats": {
@@ -7989,7 +7989,7 @@
     },
     {
       "nome": "Trashmaster",
-      "categoria": null,
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Trashmaster-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160606122714",
       "url": "https://gta.fandom.com/wiki/Trashmaster",
       "stats": {
@@ -8000,8 +8000,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trashmaster",
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fa/Trashmaster-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160929163342",
       "url": "https://gta.fandom.com/wiki/Trashmaster_(heist)",
       "stats": {
@@ -8025,7 +8025,7 @@
     },
     {
       "nome": "Bison",
-      "categoria": null,
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/69/Bison-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406172803",
       "url": "https://gta.fandom.com/wiki/Bison",
       "stats": {
@@ -8036,8 +8036,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Bison",
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/24/Bison2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018175636",
       "url": "https://gta.fandom.com/wiki/Bison_(McGill-Olsen)",
       "stats": {
@@ -8048,8 +8048,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Bison",
+      "categoria": "Service",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/Bison3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160406172900",
       "url": "https://gta.fandom.com/wiki/Bison_(The_Mighty_Bush)",
       "stats": {
@@ -8072,8 +8072,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boxville",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/Boxville2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180512151838",
       "url": "https://gta.fandom.com/wiki/Boxville_(HD_Universe)",
       "stats": {
@@ -8084,8 +8084,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boxville",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/01/LSDWPBoxville-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180512151841",
       "url": "https://gta.fandom.com/wiki/Boxville_(utility)",
       "stats": {
@@ -8096,8 +8096,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boxville",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1b/Boxville3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160410192651",
       "url": "https://gta.fandom.com/wiki/Boxville_(Humane_Labs)",
       "stats": {
@@ -8109,7 +8109,7 @@
     },
     {
       "nome": "Boxville (LSDS)",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c7/BoxvilleLSDS-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214200955",
       "url": "https://gta.fandom.com/wiki/Boxville_(LSDS)",
       "stats": {
@@ -8120,8 +8120,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boxville",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e6/Boxville4-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160929163426",
       "url": "https://gta.fandom.com/wiki/Boxville_(Post_OP)",
       "stats": {
@@ -8144,8 +8144,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Burrito",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/33/LSWPBurrito-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929164147",
       "url": "https://gta.fandom.com/wiki/Burrito_(HD_Universe)",
       "stats": {
@@ -8157,7 +8157,7 @@
     },
     {
       "nome": "Bugstars Burrito",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/00/Burrito2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929164142",
       "url": "https://gta.fandom.com/wiki/Bugstars_Burrito",
       "stats": {
@@ -8168,8 +8168,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Burrito",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/80/Burrito3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929164143",
       "url": "https://gta.fandom.com/wiki/Burrito_(second_generation)",
       "stats": {
@@ -8180,8 +8180,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Burrito",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/Burrito4-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160929164146",
       "url": "https://gta.fandom.com/wiki/Burrito_(McGill-Olsen)",
       "stats": {
@@ -8192,8 +8192,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Burrito",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1c/Burrito5-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160916164926",
       "url": "https://gta.fandom.com/wiki/Burrito_(snowed)",
       "stats": {
@@ -8204,8 +8204,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Camper",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0b/Camper-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018175917",
       "url": "https://gta.fandom.com/wiki/Camper_(HD_Universe)",
       "stats": {
@@ -8229,7 +8229,7 @@
     },
     {
       "nome": "Gang Burrito",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/GangBurrito-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160311205524",
       "url": "https://gta.fandom.com/wiki/Gang_Burrito",
       "stats": {
@@ -8240,8 +8240,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Gang Burrito",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4f/GangBurrito2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160117194400",
       "url": "https://gta.fandom.com/wiki/Gang_Burrito_(custom)",
       "stats": {
@@ -8313,7 +8313,7 @@
     },
     {
       "nome": "Pony",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e9/SunsetBleachPony-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180608153229",
       "url": "https://gta.fandom.com/wiki/Pony",
       "stats": {
@@ -8325,7 +8325,7 @@
     },
     {
       "nome": "Pony (Smoke on the Water)",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Pony_(Smoke_on_the_Water)",
       "stats": {
@@ -8337,7 +8337,7 @@
     },
     {
       "nome": "Rumpo",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d3/Rumpo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160606122422",
       "url": "https://gta.fandom.com/wiki/Rumpo",
       "stats": {
@@ -8348,8 +8348,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Rumpo",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/70/Rumpo2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180755",
       "url": "https://gta.fandom.com/wiki/Rumpo_(Deludamol)",
       "stats": {
@@ -8385,7 +8385,7 @@
     },
     {
       "nome": "Speedo Custom",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/35/SpeedoCustom-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20200501102622",
       "url": "https://gta.fandom.com/wiki/Speedo_Custom",
       "stats": {
@@ -8396,8 +8396,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Speedo Custom",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/17/SpeedoCustom2-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613215724",
       "url": "https://gta.fandom.com/wiki/Speedo_Custom_(personal_vehicle)",
       "stats": {
@@ -8409,7 +8409,7 @@
     },
     {
       "nome": "Surfer",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/ac/Surfer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160409182213",
       "url": "https://gta.fandom.com/wiki/Surfer",
       "stats": {
@@ -8420,8 +8420,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Surfer",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a6/Surfer2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626153853",
       "url": "https://gta.fandom.com/wiki/Surfer_(rusted)",
       "stats": {
@@ -8493,7 +8493,7 @@
     },
     {
       "nome": "Youga Custom",
-      "categoria": null,
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/33/YougaCustom-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250320150040",
       "url": "https://gta.fandom.com/wiki/Youga_Custom",
       "stats": {
@@ -8504,8 +8504,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Youga Custom",
+      "categoria": "Vans",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/33/YougaCustom-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250320150040",
       "url": "https://gta.fandom.com/wiki/Youga_Custom_(Hunting_Pack)",
       "stats": {
@@ -8529,7 +8529,7 @@
     },
     {
       "nome": "Caddy",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Caddy-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018175900",
       "url": "https://gta.fandom.com/wiki/Caddy",
       "stats": {
@@ -8540,8 +8540,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Caddy",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/05/Caddy2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626144109",
       "url": "https://gta.fandom.com/wiki/Caddy_(civilian)",
       "stats": {
@@ -8552,8 +8552,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Caddy",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4f/Caddy3-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20170614143908",
       "url": "https://gta.fandom.com/wiki/Caddy_(bunker)",
       "stats": {
@@ -8577,7 +8577,7 @@
     },
     {
       "nome": "Fieldmaster",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/11/Fieldmaster-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626144225",
       "url": "https://gta.fandom.com/wiki/Fieldmaster",
       "stats": {
@@ -8588,8 +8588,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Forklift",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/97/Forklift-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160702195405",
       "url": "https://gta.fandom.com/wiki/Forklift_(HD_Universe)",
       "stats": {
@@ -8600,8 +8600,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Mower",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/20/LawnMower-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180609",
       "url": "https://gta.fandom.com/wiki/Mower",
       "stats": {
@@ -8625,7 +8625,7 @@
     },
     {
       "nome": "Sadler",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Sadler-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018180756",
       "url": "https://gta.fandom.com/wiki/Sadler",
       "stats": {
@@ -8636,8 +8636,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sadler",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e2/Sadler2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160916164931",
       "url": "https://gta.fandom.com/wiki/Sadler_(snowed)",
       "stats": {
@@ -8672,8 +8672,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tow Truck",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/74/Towtruck3-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201117",
       "url": "https://gta.fandom.com/wiki/Tow_Truck_(Chop_Shop_beater)",
       "stats": {
@@ -8684,8 +8684,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tow Truck",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/ee/Towtruck4-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214203423",
       "url": "https://gta.fandom.com/wiki/Tow_Truck_(Chop_Shop)",
       "stats": {
@@ -8709,7 +8709,7 @@
     },
     {
       "nome": "Utility Truck",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/UtilityTruck2Box-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626153858",
       "url": "https://gta.fandom.com/wiki/Utility_Truck",
       "stats": {
@@ -8720,8 +8720,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Utility Truck",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4d/UtilityTruckCrane-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626153900",
       "url": "https://gta.fandom.com/wiki/Utility_Truck_(AWP)",
       "stats": {
@@ -8732,8 +8732,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Utility Truck",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/10/UtilityTruck3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160626155333",
       "url": "https://gta.fandom.com/wiki/Utility_Truck_(Contender-based)",
       "stats": {
@@ -8757,7 +8757,7 @@
     },
     {
       "nome": "Boat Trailer",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4e/BoatTrailer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170724215701",
       "url": "https://gta.fandom.com/wiki/Boat_Trailer",
       "stats": {
@@ -8768,8 +8768,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boat Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/62/BoatTrailer2-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214200948",
       "url": "https://gta.fandom.com/wiki/Boat_Trailer_(Dinghy)",
       "stats": {
@@ -8780,8 +8780,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Boat Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a4/BoatTrailer3-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214200951",
       "url": "https://gta.fandom.com/wiki/Boat_Trailer_(Seasharks)",
       "stats": {
@@ -8804,8 +8804,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Tanker",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/af/Tanker-GTA2.png/revision/latest/scale-to-width-down/267?cb=20091031133544",
       "url": "https://gta.fandom.com/wiki/Tanker_(trailer)",
       "stats": {
@@ -8817,7 +8817,7 @@
     },
     {
       "nome": "Tanker (heist)",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Tanker_(heist)",
       "stats": {
@@ -8828,8 +8828,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer (box)",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/4a/TrailerS2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170513150408",
       "url": "https://gta.fandom.com/wiki/Trailer_(box)",
       "stats": {
@@ -8840,7 +8840,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Trailer (car carrier)",
       "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/45/Tr2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170512222606",
       "url": "https://gta.fandom.com/wiki/Trailer_(car_carrier)",
@@ -8852,8 +8852,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer (container)",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/6f/TrailerSContainer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170513150459",
       "url": "https://gta.fandom.com/wiki/Trailer_(container)",
       "stats": {
@@ -8864,8 +8864,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer (Fame or Shame)",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/df/Tvtrailer-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170513150506",
       "url": "https://gta.fandom.com/wiki/Trailer_(Fame_or_Shame)",
       "stats": {
@@ -8876,7 +8876,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Trailer (flatbed)",
       "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/58/Trflat-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170218150703",
       "url": "https://gta.fandom.com/wiki/Trailer_(flatbed)",
@@ -8888,8 +8888,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/Trailers4-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20170621151617",
       "url": "https://gta.fandom.com/wiki/Trailer_(Gunrunning)",
       "stats": {
@@ -8900,8 +8900,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/bc/TrailerS5-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201124",
       "url": "https://gta.fandom.com/wiki/Trailer_(Happy_Holidays)",
       "stats": {
@@ -8912,7 +8912,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Trailer",
       "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1e/Trailerlogs-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170513150404",
       "url": "https://gta.fandom.com/wiki/Trailer_(logs)",
@@ -8924,8 +8924,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/10/TVTrailer2-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20231214201139",
       "url": "https://gta.fandom.com/wiki/Trailer_(LS_Panic)",
       "stats": {
@@ -8948,8 +8948,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Trailer",
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/15/TrailerS3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170513150458",
       "url": "https://gta.fandom.com/wiki/Trailer_(ramp-door)",
       "stats": {
@@ -8960,7 +8960,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Trailer",
       "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/be/Trailersmall-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170724215705",
       "url": "https://gta.fandom.com/wiki/Trailer_(small)",
@@ -8973,7 +8973,7 @@
     },
     {
       "nome": "Mobile Operations Center",
-      "categoria": null,
+      "categoria": "Utility",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/MobileOperationsCenter-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20170621145109",
       "url": "https://gta.fandom.com/wiki/Mobile_Operations_Center",
       "stats": {
@@ -8984,8 +8984,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "BMX",
+      "categoria": "Cycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/64/BMX-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018175629",
       "url": "https://gta.fandom.com/wiki/BMX_(HD_Universe)",
       "stats": {
@@ -8996,7 +8996,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Cruiser",
       "categoria": "Cycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/bd/Cruiser-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161018175937",
       "url": "https://gta.fandom.com/wiki/Cruiser_(bike)",
@@ -9033,7 +9033,7 @@
     },
     {
       "nome": "Junk Energy Inductor",
-      "categoria": null,
+      "categoria": "Cycles",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/be/JunkEnergyInductor-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20230613215709",
       "url": "https://gta.fandom.com/wiki/Junk_Energy_Inductor",
       "stats": {
@@ -9104,8 +9104,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Barracks",
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d4/Barracks-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160529142937",
       "url": "https://gta.fandom.com/wiki/Barracks",
       "stats": {
@@ -9116,8 +9116,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Barracks",
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/91/Barracks3-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160916175322",
       "url": "https://gta.fandom.com/wiki/Barracks_(heist)",
       "stats": {
@@ -9200,8 +9200,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Rhino Tank",
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/af/RhinoTank-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20161111195824",
       "url": "https://gta.fandom.com/wiki/Rhino_Tank",
       "stats": {
@@ -9213,7 +9213,7 @@
     },
     {
       "nome": "Apocalypse Scarab",
-      "categoria": null,
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d5/ApocalypseScarab-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193632",
       "url": "https://gta.fandom.com/wiki/Apocalypse_Scarab",
       "stats": {
@@ -9225,7 +9225,7 @@
     },
     {
       "nome": "Future Shock Scarab",
-      "categoria": null,
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/FutureShockScarab-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193633",
       "url": "https://gta.fandom.com/wiki/Future_Shock_Scarab",
       "stats": {
@@ -9237,7 +9237,7 @@
     },
     {
       "nome": "Nightmare Scarab",
-      "categoria": null,
+      "categoria": "Military",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7d/NightmareScarab-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20181214193633",
       "url": "https://gta.fandom.com/wiki/Nightmare_Scarab",
       "stats": {
@@ -9285,7 +9285,7 @@
     },
     {
       "nome": "Freight Train",
-      "categoria": null,
+      "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/f4/FreightTrain-GTAVe-front.png/revision/latest/scale-to-width-down/268?cb=20240121152533",
       "url": "https://gta.fandom.com/wiki/Freight_Train",
       "stats": {
@@ -9296,8 +9296,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Freight Train",
+      "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/58/FreightTrain2-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20240121155028",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(The_Cluckin%27_Bell_Farm_Raid)",
       "stats": {
@@ -9308,8 +9308,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Freight Train",
+      "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b0/FreightCar-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251029190107",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(well_car)",
       "stats": {
@@ -9320,8 +9320,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Freight Train",
+      "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/3a/FreightCar2-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251029185214",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(The_E.C.U_Job_well_car)",
       "stats": {
@@ -9332,8 +9332,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Freight Train",
+      "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/84/FreightCar3-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251029185222",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(The_Titan_Job_well_car)",
       "stats": {
@@ -9344,8 +9344,8 @@
       }
     },
     {
-      "nome": "Freight Train (D-Rail well car)",
-      "categoria": null,
+      "nome": "Freight Train",
+      "categoria": "Trains",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Freight_Train_(D-Rail_well_car)",
       "stats": {
@@ -9357,7 +9357,7 @@
     },
     {
       "nome": "Freight Train (Lando well car)",
-      "categoria": null,
+      "categoria": "Trains",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Freight_Train_(Lando_well_car)",
       "stats": {
@@ -9368,7 +9368,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Freight Train",
       "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/00/FreightGrain-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251029190131",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(boxcar)",
@@ -9380,7 +9380,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Freight Train",
       "categoria": "Trains",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/46/TankerCar-GTAVee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20251029190138",
       "url": "https://gta.fandom.com/wiki/Freight_Train_(tanker)",
@@ -9416,8 +9416,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dinghy",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b6/Dinghy-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170723192359",
       "url": "https://gta.fandom.com/wiki/Dinghy_(HD_Universe)",
       "stats": {
@@ -9428,8 +9428,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dinghy",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/Dinghy3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170723192356",
       "url": "https://gta.fandom.com/wiki/Dinghy_(heist)",
       "stats": {
@@ -9440,8 +9440,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dinghy",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/b/b4/Dinghy4-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20170723192358",
       "url": "https://gta.fandom.com/wiki/Dinghy_(slimline)",
       "stats": {
@@ -9452,8 +9452,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Jetmax",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e8/Jetmax-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160207130439",
       "url": "https://gta.fandom.com/wiki/Jetmax",
       "stats": {
@@ -9465,7 +9465,7 @@
     },
     {
       "nome": "Kosatka",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/38/Kosatka-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20201224110718",
       "url": "https://gta.fandom.com/wiki/Kosatka",
       "stats": {
@@ -9525,7 +9525,7 @@
     },
     {
       "nome": "Police Predator",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20180529134458",
       "url": "https://gta.fandom.com/wiki/Police_Predator",
       "stats": {
@@ -9537,7 +9537,7 @@
     },
     {
       "nome": "Seashark",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/60/Seashark-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160410145815",
       "url": "https://gta.fandom.com/wiki/Seashark",
       "stats": {
@@ -9548,8 +9548,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Seashark",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/81/Seashark2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160410145938",
       "url": "https://gta.fandom.com/wiki/Seashark_(lifeguard)",
       "stats": {
@@ -9560,8 +9560,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Seashark",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/94/Seashark3-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20151216190935",
       "url": "https://gta.fandom.com/wiki/Seashark_(slimline)",
       "stats": {
@@ -9572,8 +9572,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Speeder",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/33/Speeder-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160117175437",
       "url": "https://gta.fandom.com/wiki/Speeder_(boat)",
       "stats": {
@@ -9584,8 +9584,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Speeder",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/c/c2/Speeder2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20151216190736",
       "url": "https://gta.fandom.com/wiki/Speeder_(slimline)",
       "stats": {
@@ -9596,8 +9596,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Squalo",
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/3/37/Squalo-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20160916175317",
       "url": "https://gta.fandom.com/wiki/Squalo_(HD_Universe)",
       "stats": {
@@ -9633,7 +9633,7 @@
     },
     {
       "nome": "Toro",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/9/95/Toro-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20151212235626",
       "url": "https://gta.fandom.com/wiki/Toro",
       "stats": {
@@ -9645,7 +9645,7 @@
     },
     {
       "nome": "Toro (slimline)",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Toro_(slimline)",
       "stats": {
@@ -9669,7 +9669,7 @@
     },
     {
       "nome": "Tropic (slimline)",
-      "categoria": null,
+      "categoria": "Boats",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Tropic_(slimline)",
       "stats": {
@@ -9680,7 +9680,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Tug",
       "categoria": "Boats",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/4/44/Tug-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20160609144857",
       "url": "https://gta.fandom.com/wiki/Tug_(boat)",
@@ -9764,8 +9764,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cargobob",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Cargobob-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814164253",
       "url": "https://gta.fandom.com/wiki/Cargobob_(HD_Universe)",
       "stats": {
@@ -9776,8 +9776,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cargobob",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/6/68/Cargobob2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814164157",
       "url": "https://gta.fandom.com/wiki/Cargobob_(Jetsam)",
       "stats": {
@@ -9788,8 +9788,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cargobob",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/Cargobob3-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814164227",
       "url": "https://gta.fandom.com/wiki/Cargobob_(TPE)",
       "stats": {
@@ -9824,8 +9824,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Hunter",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/dd/FH1-Hunter-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20171121154009",
       "url": "https://gta.fandom.com/wiki/Hunter",
       "stats": {
@@ -9837,7 +9837,7 @@
     },
     {
       "nome": "Frogger",
-      "categoria": null,
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/0/05/Frogger-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20241114211116",
       "url": "https://gta.fandom.com/wiki/Frogger",
       "stats": {
@@ -9848,8 +9848,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Frogger",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7b/Frogger2-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814153022",
       "url": "https://gta.fandom.com/wiki/Frogger_(TPE)",
       "stats": {
@@ -9872,8 +9872,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Maverick",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2b/Maverick-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20241202003620",
       "url": "https://gta.fandom.com/wiki/Maverick_(HD_Universe)",
       "stats": {
@@ -9884,7 +9884,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Maverick",
       "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/e/eb/HigginsHelitoursMaverick-GTAOee-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20250619002552",
       "url": "https://gta.fandom.com/wiki/Helitours_Maverick",
@@ -9896,8 +9896,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Maverick",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814173156",
       "url": "https://gta.fandom.com/wiki/Police_Maverick_(HD_Universe)",
       "stats": {
@@ -9920,8 +9920,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sparrow",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5c/Sparrow-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20201216100245",
       "url": "https://gta.fandom.com/wiki/Sparrow_(HD_Universe)",
       "stats": {
@@ -9932,8 +9932,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sparrow",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5a/Sparrow2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20201216100259",
       "url": "https://gta.fandom.com/wiki/Sparrow_(prop)",
       "stats": {
@@ -9944,8 +9944,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Sparrow",
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/5e/SeaSparrow-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20241114211508",
       "url": "https://gta.fandom.com/wiki/Sea_Sparrow_(HD_Universe)",
       "stats": {
@@ -9993,7 +9993,7 @@
     },
     {
       "nome": "Swift",
-      "categoria": null,
+      "categoria": "Helicopters",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/d9/SwiftClassic-GTAV-FrontQuarter.png/revision/latest/scale-to-width-down/268?cb=20160117175814",
       "url": "https://gta.fandom.com/wiki/Swift",
       "stats": {
@@ -10065,7 +10065,7 @@
     },
     {
       "nome": "Alpha-Z1",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/5/50/AlphaZ1-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20190627214648",
       "url": "https://gta.fandom.com/wiki/Alpha-Z1",
       "stats": {
@@ -10076,7 +10076,7 @@
       }
     },
     {
-      "nome": null,
+      "nome": "Avenger",
       "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/f/fe/Avenger-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20230615141311",
       "url": "https://gta.fandom.com/wiki/Avenger_(plane)",
@@ -10088,8 +10088,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Avenger",
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/Avenger2-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20230615141251",
       "url": "https://gta.fandom.com/wiki/Avenger_(prop)",
       "stats": {
@@ -10101,7 +10101,7 @@
     },
     {
       "nome": "Avenger (upgraded)",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Avenger_(upgraded)",
       "stats": {
@@ -10113,7 +10113,7 @@
     },
     {
       "nome": "Avenger (upgraded prop)",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": null,
       "url": "https://gta.fandom.com/wiki/Avenger_(upgraded_prop)",
       "stats": {
@@ -10137,7 +10137,7 @@
     },
     {
       "nome": "Blimp",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/a/a5/Blimp-GTAO-front.png/revision/latest/scale-to-width-down/268?cb=20180725180347",
       "url": "https://gta.fandom.com/wiki/Blimp",
       "stats": {
@@ -10161,7 +10161,7 @@
     },
     {
       "nome": "Cargo Plane",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/8/88/CargoPlane-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20250814152924",
       "url": "https://gta.fandom.com/wiki/Cargo_Plane",
       "stats": {
@@ -10172,8 +10172,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Cargo Plane",
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/1/1f/CargoPlane2-GTAOe-front.png/revision/latest/scale-to-width-down/268?cb=20221220172643",
       "url": "https://gta.fandom.com/wiki/Cargo_Plane_(Last_Dose)",
       "stats": {
@@ -10196,8 +10196,8 @@
       }
     },
     {
-      "nome": null,
-      "categoria": null,
+      "nome": "Dodo",
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/d/df/Dodo-GTAVI-OfficialScreenshot-LeonidaKeys01.png/revision/latest/scale-to-width-down/268?cb=20250508205843",
       "url": "https://gta.fandom.com/wiki/Dodo_(HD_Universe)",
       "stats": {
@@ -10209,7 +10209,7 @@
     },
     {
       "nome": "Duster",
-      "categoria": null,
+      "categoria": "Planes",
       "imagem": "https://static.wikia.nocookie.net/gtawiki/images/7/7a/Duster-GTAV-front.png/revision/latest/scale-to-width-down/268?cb=20150724190610",
       "url": "https://gta.fandom.com/wiki/Duster",
       "stats": {
