@@ -12,6 +12,7 @@
   font-optical-sizing: auto;
   font-style: normal;
   font-variation-settings: "wdth" 100;
+  box-sizing: border-box;
 }
 
 p {
@@ -26,9 +27,9 @@ select {
 body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
   background-image: url("./bg-repeat.png");
   color: #fff;
+  overflow-x: hidden;
 }
 
 .title-page {
@@ -113,4 +114,66 @@ body {
   font-size: 22px;
   font-weight: 400;
   color: #555555;
+}
+
+/* Media Queries para responsividade */
+
+/* Resoluções abaixo de 1280px - adiciona padding lateral */
+@media (max-width: 1279px) {
+  .grid-container,
+  #filtros {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+/* Resoluções abaixo de 768px - layout mobile */
+@media (max-width: 767px) {
+  .title-page {
+    font-size: 48px;
+    text-align: center;
+  }
+
+  #filtros {
+    margin: 50px 0;
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .grid-container {
+    margin: 50px 0;
+  }
+
+  .grid-items {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .card-header {
+  }
+
+  .nome-categoria {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  #formula {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .title {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .position {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  select {
+    font-size: 24px;
+  }
 }
